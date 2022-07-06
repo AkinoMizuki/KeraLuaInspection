@@ -6,7 +6,7 @@ C#(.NET 5)でのKeraLuaを実装メモです。
 
 # 実装API
 - print(value)
-- sleep(int)
+- sleep(msec)
 
 # print(value)
 GUI中央の黒いTextBoxに表示できます
@@ -14,8 +14,8 @@ GUI中央の黒いTextBoxに表示できます
   print("文字表示")
 ```
 
-# sleep(int)
-msオーダーでウェイトを指定出来ます
+# sleep(msec)
+msecオーダーでウェイトを指定出来ます
 ```lua
  --100msウェイト
 　sleep(100)
