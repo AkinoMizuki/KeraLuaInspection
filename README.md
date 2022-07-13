@@ -1,5 +1,5 @@
 # KeraLuaInspection
-C#(.NET 5)でのKeraLuaを実装メモです。
+C#(.NET 5)でのKeraLuaの実装メモです。
 
 - Lua読み込み時のコードの静的解析(字句解析, 構文解析)は有りません
 - モジュールは実装されていません
