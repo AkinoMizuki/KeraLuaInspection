@@ -9,7 +9,7 @@ C#(.NET 5)でのKeraLuaを実装メモです。
 - sleep(msec)
 
 # print(value)
-GUI中央の黒いTextBoxに表示できます
+GUI中央の黒いTextBoxに表示できます※日本語非対応
 ```lua
   print("文字表示")
 ```
